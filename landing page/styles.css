@@ -1,0 +1,81 @@
+*{padding: 0; margin: 0; box-sizing:  border-box; font-family: sans-serif;}
+/*
+font-family: 'Dancing Script', cursive;
+*/
+
+
+.nav1{
+    width: 100%;
+    height: 50px;
+    color: white;
+    background: #222f3e;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.nav1{
+    margin:0 5px;
+}
+.nav1 a{
+    text-decoration: none;
+    color: whitesmoke;
+    padding: 5px 10px;
+    background: #e67e22;
+}
+.nav2{
+    width: 100%;
+    height: 80px;
+    background: white;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 70px;
+
+}
+.menu a{
+    text-decoration: none;
+    color: black;
+    padding: 10px 20px;
+}
+header 
+{
+    width: 100%;
+    height: 100vh;
+    background:   url(./PHOTOS/BACKGROUND.PNG);
+    background-size: 100% 100%;
+}
+.nav3{
+    width: 100%;
+    height: 80px;
+    background:#222f3e;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 70px;
+    
+
+}
+.menu2 a{
+    text-decoration: none;
+    color: black;
+    padding: 10px 20px;
+    background: pink;
+    background-color: aquamarine;
+}
+.nav4{
+    text-decoration: none;
+    text-decoration-color: azure;
+    background: none;
+}
+.menu3{
+    text-decoration: none;
+    color: black;
+    padding: 10px 20px;
+    text-shadow: pink;
+   
+}
+.footer{
+    text-align: center;
+}
